@@ -8,7 +8,7 @@
 
 #### Exercises
 
-Navigate to your local code directory using the Terminal (`cd path-to-your-code-directory`). Clone the class repo by running `git clone https://github.com/visualizedata/major-studio-1-fa24.git`.
+Navigate to your local code directory using the Terminal (`cd path-to-your-code-directory`). Clone the class repo by running `git clone <repository name>`.
 
 ##### Completing the exercises
 
