@@ -36,8 +36,6 @@ console.log(names.length)
 console.log(URLs.length)
 console.log(years.length)
 
-
-
 // Task 2
 // add a new item to an array
 var newName = "The International Center of Photography"
@@ -46,7 +44,9 @@ var newYear = 1974
 
 names.push(newName);
 URLs[URLs.length] = newURL;
-years = years.concat(newYear);
+years = years.concat([newYear]);
+
+// In the third case, newYear is converted into an array before being concatenated with the years array
 
 // Task 3
 // construct an Object out of our three Arrays
@@ -71,6 +71,8 @@ for (var i = 0; i < names.length; i++) {
 
 console.log('museums', museums)
 
+// Each museum name becomes a key in the museums object, and its value is another object with URL and year properties.
+
 var museums2 = {};
 names.forEach(function(n,i) {
   museums2[n] = {};
@@ -84,10 +86,14 @@ names.forEach(function(n,i) {
 
 console.log('museums2', museums2)
 
+// The "museums2[n] = {}" line specifies the type for museum (object), so that the next line can add properties to that specific museum as an object.
+
 // Task
 // Write a function to add a new museum object, with properties URL and year, to an existing museums object. Call it on museums2
 function addAMuseum(museums, newName, newURL, newYear){
-  museums[newName] = { URL: newURL, year: newYear };
+  museums[newName] = {};
+  museums[newName].URL = newURL;
+  museums[newName].year = newYear;
 
   return museums;
 }
