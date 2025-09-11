@@ -1,8 +1,8 @@
-## The Ordinaries
+## The Ordinaries - concept
 ![The Ordinaries](./the_ordinaries.jpg)
 
-## The Widow’s Archive
+## The Widow’s Archive - concept
 ![The Widow’s Archive](./widow_archive.jpg)
 
-## Artifacts of Memory
-![The Widow’s Archive](./artifacts_memory.jpg)
+## Artifacts of Memory - concept
+![Artifacts of Memory](./of_memory.jpg)
