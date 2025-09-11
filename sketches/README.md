@@ -5,4 +5,4 @@
 ![The Widow’s Archive](./widow_archive.jpg)
 
 ## Artifacts of Memory
-![Artifacts of Memory](./artifacts_memory.jpg)
+![The Widow’s Archive](./artifacts_memory.jpg)
