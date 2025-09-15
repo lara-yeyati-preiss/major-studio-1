@@ -1,5 +1,5 @@
 ## The Ordinaries - concept
-![The Ordinaries](./ordinaries.jpg)
+![The Ordinaries](./these_are_the_ordinaries.jpg)
 
 ## The Widow’s Archive - concept
 ![The Widow’s Archive](./widow_archive.jpg)
