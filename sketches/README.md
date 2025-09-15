@@ -5,4 +5,4 @@
 ![The Widow’s Archive](./these_are_the_widows.jpg)
 
 ## Artifacts of Memory - concept
-![Artifacts of Memory](./artifacts_memory.jpg)
+![Artifacts of Memory](./these_are_the_artifacts.jpg)
